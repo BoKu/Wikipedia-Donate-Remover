@@ -7,6 +7,7 @@
 // @match        https://*.wikipedia.org/*
 // @icon         https://www.google.com/s2/favicons?domain=wikipedia.org
 // @grant        none
+// @homepage     https://github.com/BoKu/Wikipedia-Donate-Remover
 // ==/UserScript==
 (function() {
     'use strict';
